@@ -1,14 +1,14 @@
 shan ga nu godverdomme jezelf toevoegen!
 
 <<<<<<< HEAD
-Bo wil dood!
+Bo is gay!
 
 bool Github;
 
 if(Github == true){
 
-Console.writeLine("kill me plz");
+Console.writeLine("Gay");
 }
 =======
-Bo wil dood!
+Bo is gay!
 >>>>>>> test
