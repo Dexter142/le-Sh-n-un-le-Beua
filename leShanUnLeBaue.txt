@@ -1,3 +1,10 @@
 shan ga nu godverdomme jezelf toevoegen!
 
-Bo Ladan wil dood!
+Bo wil dood!
+
+bool Github;
+
+if(Github == true){
+
+Console.writeLine("kill me plz");
+}
