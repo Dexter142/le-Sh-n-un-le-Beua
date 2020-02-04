@@ -1,5 +1,6 @@
 shan ga nu godverdomme jezelf toevoegen!
 
+<<<<<<< HEAD
 Bo wil dood!
 
 bool Github;
@@ -8,3 +9,6 @@ if(Github == true){
 
 Console.writeLine("kill me plz");
 }
+=======
+Bo wil dood!
+>>>>>>> test
